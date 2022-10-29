@@ -24,6 +24,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
+<img src="https://profile-counter.glitch.me/{Sakura-522}/count.svg" alt="Sakura-522 :: Visitor's Count" /></p>
+
 
 <!---
 Sakura-522/Sakura-522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
