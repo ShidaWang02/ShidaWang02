@@ -9,7 +9,7 @@
 - 📫 How to reach me ...
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-522&layout=compact)
+<div align=right>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-522&layout=compact)</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
