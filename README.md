@@ -9,7 +9,7 @@
 - 📫 How to reach me ...
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-522)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-522&layout=compact)
 
 <!---
 Sakura-522/Sakura-522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
