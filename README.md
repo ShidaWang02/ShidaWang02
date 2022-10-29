@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WangDanPeng&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sakura-522&show_icons=true&theme=radical">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Sakura-522
 - 👀 I’m interested in ...
