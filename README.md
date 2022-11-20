@@ -8,6 +8,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+---
+
+## My github contributions
+
+![](https://raw.githubusercontent.com/Sakura-522/Sakura-522/main/assets/github-contribution-grid-snake.svg)
+
 
 
 <br/>
