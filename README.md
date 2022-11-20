@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Sakura-522
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning **Data Science** in USTC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -21,7 +21,7 @@
 <br/>
 
 
-<div align=right><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-522&layout=compact"></div>
+<div align=left><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-522&layout=compact"></div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
