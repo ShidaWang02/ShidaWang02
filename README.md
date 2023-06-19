@@ -2,8 +2,8 @@
 
 
 
-- 👋 Hi, I’m @Sakura-522
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Giraffe Wang
+- 👀 I’m interested in programming,basketball and music.
 - 🌱 I’m currently learning **Data Science** in USTC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
