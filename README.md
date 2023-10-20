@@ -3,9 +3,8 @@
 
 
 - 👋 Hi, I’m Giraffe Wang
-- 👀 I’m interested in programming,basketball and music.
+- 👀 I’m interested in deep learning and multimodal analysis.
 - 🌱 I’m currently learning **Data Science** in USTC
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **wangshida@mail.ustc.edu.cn**
 
 ---
