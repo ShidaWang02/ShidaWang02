@@ -6,7 +6,7 @@
 - 👀 I’m interested in programming,basketball and music.
 - 🌱 I’m currently learning **Data Science** in USTC
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me **wangshida@mail.ustc.edu.cn**
 
 ---
 
