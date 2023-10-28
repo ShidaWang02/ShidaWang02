@@ -1,25 +1,16 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sakura-522&show_icons=true&theme=vue">
+<h1 align="center">Hi 👋, I'm Giraffe Wang</h1>
+<h3 align="center">An undergraduate in University of Science and Technology of China(USTC)，School of Big Data</h3>
 
 
+- 🌱 I’m currently learning **diffusion models and multimodal analysis.**
 
-- 👋 Hi, I’m Giraffe Wang
-- 👀 I’m interested in deep learning and multimodal analysis.
-- 🌱 I’m currently learning **Data Science** in USTC
 - 📫 How to reach me **wangshida@mail.ustc.edu.cn**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## My github contributions
-
-![](https://raw.githubusercontent.com/Sakura-522/Sakura-522/main/assets/github-contribution-grid-snake.svg)
-
-
-
-<br/>
-<br/>
-<br/>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakura-522&show_icons=true&theme=vue" /></p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
