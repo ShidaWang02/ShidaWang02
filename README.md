@@ -8,7 +8,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakura-522&show_icons=true&theme=vue" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakura-522&show_icons=true&theme=vue" /></p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
@@ -22,13 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
-
+ -->
 <img src="https://profile-counter.glitch.me/{Sakura-522}/count.svg" alt="Sakura-522 :: Visitor's Count" /></p>
 ---
 
-
-
-<!---
-Sakura-522/Sakura-522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
