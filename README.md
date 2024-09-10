@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shida Wang</h1>
-<h3 align="center">An undergraduate in <a href="https://www.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>, <a href="http://sds.ustc.edu.cn/main.htm">School of Big Data</a></h3>
+<h3 align="center">A postgraduate in <a href="https://www.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>, <a href="http://saids.ustc.edu.cn/main.htm">School of Artificial Intelligence and Data Science</a></h3>
 
 
 - 🌱 I’m currently learning **diffusion models and multimodal analysis.**
